@@ -1,7 +1,3 @@
-Here’s a **professional, extended project description** you can use for your GitHub repository README:
-
----
-
 ## 📖 AddressBook (C Project)
 
 The **AddressBook** project is a simple **C-based contact management system** that allows users to store, manage, and persist contact information. It implements a **CRUD (Create, Read, Update, Delete)** application with file handling, making it a great example of using **structures, arrays, and file operations in C programming**.
@@ -91,6 +87,3 @@ The **AddressBook** project is a simple **C-based contact management system** th
 * Support for importing/exporting CSV files.
 * Add validation for phone numbers and emails.
 
----
-
-Would you like me to **make a polished `README.md` file** (with Markdown formatting, emojis, and copy-paste ready) that you can directly upload to your GitHub repo?
